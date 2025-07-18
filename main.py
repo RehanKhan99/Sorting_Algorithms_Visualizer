@@ -1,8 +1,5 @@
 # Project Title : Visualization of Sorting Algorithms
 
-# Sec : 5A
-# Group Members : 
-#     Yasir Hussain - (19K-0223)
 
 # Large Set of Random Unsorted 300 Values in input.txt were generated using this 
 # online tool : https://www.random.org/integer-sets/
